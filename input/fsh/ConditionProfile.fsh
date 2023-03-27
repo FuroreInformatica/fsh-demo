@@ -1,4 +1,3 @@
-
 Profile: CancerCondition
 Parent: Condition 
 Id: cancer-condition-demo

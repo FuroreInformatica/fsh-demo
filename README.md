@@ -30,7 +30,7 @@ The IG publisher generates an implementation guide of your FSH input files, so y
 2. Start from scratch. Create an empty folder and let the command `sushi --init` guide you in creating the correct folder structure and settings.
 
 ## Create the IG
-1. Open a new terminal in VS Code and run:
-   - `_updatePublisher[.bat or .sh]` (answer Yes to all prompts)
-   - `_genonce[.bat or .sh]` to build the Sample IG.
+1. Open a new terminal in VS Code and run (or run .bat file from folder viewer):
+   - `.\_updatePublisher[.bat or .sh]` (answer Yes to all prompts). This is only required once if you have not downloaded the IG publisher yet. Or if you want to update the IG Publisher. 
+   - `.\_genonce[.bat or .sh]` to build the Sample IG.
 2. If everything goes smoothly, the IG is created in the output folder. You can open the `index.html` file in a browser to see the result of the publisher.

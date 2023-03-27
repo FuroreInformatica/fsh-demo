@@ -1,5 +1,3 @@
-// ValueSets
-
 ValueSet: PatientComorbidityHistory
 Id: PatientComorbidityHistory
 Title: "Patient's comorbidity history ValueSet"

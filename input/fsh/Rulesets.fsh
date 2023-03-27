@@ -1,5 +1,3 @@
-// Rulesets
-
 RuleSet: ValuesetRuleset
 * ^version = "5.0"
 * ^status = #active
