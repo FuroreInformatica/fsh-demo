@@ -15,6 +15,7 @@ InstanceOf: CancerPatient
 Title: "Example of a patient diagnosed with cancer."
 Description: "The characteristics and demographic factors of an example patient."
 * identifier.value = "09088"
+* identifier.system = "https://acme.org/fhir/namingsystem/patientidentifier"
 * name.text = "Roel van Putten"
 * name.family = "Putten"
 * name.prefix = "van"
